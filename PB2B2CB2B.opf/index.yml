@@ -1,0 +1,196 @@
+id: c53d454019d649d09204bc3a06f96eba
+annotation_type: index
+revision: '00001'
+annotations:
+  472180b07a65453682807cc95a6e5031:
+    work_id: W27F6DD7C
+    span:
+      vol: 1. Sarvākārajñatācaryā
+      start: 0
+      end: 4760
+  d5167f7efe1f4e76b5ecf22af8a8c552:
+    work_id: W155B4DDB
+    span:
+      vol: 10. Dhāraṇīguṇa
+      start: 0
+      end: 1778
+  338b0b730bed49eb935d70c5c40b1499:
+    work_id: WB0FBFA94
+    span:
+      vol: 11. Mārakarma
+      start: 0
+      end: 1787
+  8c75fe1fef0040c1858028ca23a97b52:
+    work_id: WE3FFF1F3
+    span:
+      vol: 12. Lokasaṃdarśana
+      start: 0
+      end: 1610
+  80baf2bdcfb748b8aa0a6b469e93796d:
+    work_id: W5694B62A
+    span:
+      vol: 13. Acintya
+      start: 0
+      end: 438
+  5ad6d907ea394cf4aa2e155fbe2be57d:
+    work_id: WAE5D5705
+    span:
+      vol: 14. Aupamya
+      start: 0
+      end: 1767
+  36ed5ea3ea204bac88b9b19caf2b299b:
+    work_id: W4BD68455
+    span:
+      vol: 15. Deva
+      start: 0
+      end: 1396
+  d683a799e5c84bb88ecc7c1e9cca0241:
+    work_id: W49989767
+    span:
+      vol: 16. Tathatā
+      start: 0
+      end: 1061
+  5b8c3a2d8a4d48f0a07ffb1472b55a4a:
+    work_id: WE669F0FB
+    span:
+      vol: 17. Avinivartanīyaliṅgākāra
+      start: 0
+      end: 1312
+  e241ca6401cd45ef800d5b43933057b1:
+    work_id: W462A96F4
+    span:
+      vol: 18. Śūnyatā
+      start: 0
+      end: 1422
+  5a8d8b91b98e46d5955a033636719404:
+    work_id: W78AF3C0F
+    span:
+      vol: 19. Gaṅgadevābhaginī
+      start: 0
+      end: 1478
+  050659ad49244add83b4e6d6bc7c76a1:
+    work_id: W18E81426
+    span:
+      vol: 2. Śakra
+      start: 0
+      end: 2211
+  ea067ca8befb4caeb0d7e84be79e5467:
+    work_id: W1B41F061
+    span:
+      vol: 20. Upāyakauśalyamīmāṃsā
+      start: 0
+      end: 4150
+  1aa634c7a0294a2ebdc6cee1cd31786a:
+    work_id: WA9F9E90C
+    span:
+      vol: 21. Mārakarma
+      start: 0
+      end: 1403
+  a3d71885f73d4f05b696f7d0c6aa8ecf:
+    work_id: WA795DBDB
+    span:
+      vol: 22. Kalyāṇamitra
+      start: 0
+      end: 2253
+  deee272007d64226a4b68858355cd6dc:
+    work_id: W21CC10DA
+    span:
+      vol: 23. Śakra
+      start: 0
+      end: 756
+  bed39c0ba59d4f159abbe92969937801:
+    work_id: WB24A2475
+    span:
+      vol: 24. Abhimāna
+      start: 0
+      end: 1111
+  c1f1a6b0b86e4e2f8f4319917b2aa2be:
+    work_id: W5E92828D
+    span:
+      vol: 25. Śikṣā
+      start: 0
+      end: 1085
+  7c27bc1692b04e2d95fd88f8ee65483d:
+    work_id: WE56D39BD
+    span:
+      vol: 26. Māyopama
+      start: 0
+      end: 1411
+  24295bbe15e94a0982c17d82ce558f50:
+    work_id: W0F4F44A8
+    span:
+      vol: 27. Sāra
+      start: 0
+      end: 1581
+  2a04c2dbe51e420f9998aed395767552:
+    work_id: W29DBD774
+    span:
+      vol: 28. Avakīrṇakusuma
+      start: 0
+      end: 1289
+  df328d1dd24342f2b5b59ded9413127e:
+    work_id: WA8537946
+    span:
+      vol: 29. Anugama
+      start: 0
+      end: 2427
+  13aacf3d790c433abd13073c1582c01e:
+    work_id: W1F8BAB66
+    span:
+      vol: 3. Aprameyaguṇadhāraṇapāramitāstūpasatkāra
+      start: 0
+      end: 1485
+  2fac75d764b34c5fa4623e8716f5e078:
+    work_id: W055512E1
+    span:
+      vol: 30. Sadāprarudita
+      start: 0
+      end: 2430
+  8ec6196b35f04f689ba6c82518ade614:
+    work_id: W6136A46F
+    span:
+      vol: 31. Dharmodgata
+      start: 0
+      end: 3072
+  2bfc2e21bd6245e39dc8e1a35e9fc668:
+    work_id: W912DF479
+    span:
+      vol: 32. Parīndanā
+      start: 0
+      end: 2044
+  c3e20909f6a24e648e50639fddd06f1b:
+    work_id: W18DD8E6D
+    span:
+      vol: 4. Guṇaparikīrtana
+      start: 0
+      end: 1251
+  984d3f15721442da9d6b0803b376c30e:
+    work_id: WB2FB5044
+    span:
+      vol: 5. Puṇyaparyāya
+      start: 0
+      end: 1603
+  7b0357ed428d4cf69cb22e68b8b7d9fa:
+    work_id: W816CE01C
+    span:
+      vol: 6. Anumodanā
+      start: 0
+      end: 1588
+  606168531a914602b7305802549e8689:
+    work_id: W8F533798
+    span:
+      vol: 7. Niraya
+      start: 0
+      end: 1271
+  01b5ff28d85d4b59a85a07fd7590484b:
+    work_id: W4744BAB1
+    span:
+      vol: 8. Viśuddhi
+      start: 0
+      end: 740
+  e6a978efda1a4323b53eff566d54b60f:
+    work_id: W240A3704
+    span:
+      vol: 9. Stuti
+      start: 0
+      end: 418

@@ -1,0 +1,137 @@
+id: PB2B2CB2B
+initial_creation_type: input
+source_metadata:
+  title: Ratnaguṇasaṃcayagāthā
+  language: sa
+  volumes:
+    26767fd48d2f47ec94f899ee02599514:
+      title: 1. Sarvākārajñatācaryā
+      base_file: 1. Sarvākārajñatācaryā.txt
+      work_id: W27F6DD7C
+    dd63bea77a26461599ae720ae5c0f028:
+      title: 10. Dhāraṇīguṇa
+      base_file: 10. Dhāraṇīguṇa.txt
+      work_id: W155B4DDB
+    9479a501f4ba4360ae9a913800192d9c:
+      title: 11. Mārakarma
+      base_file: 11. Mārakarma.txt
+      work_id: WB0FBFA94
+    a4f8d53d21794da4b64f458e225191b0:
+      title: 12. Lokasaṃdarśana
+      base_file: 12. Lokasaṃdarśana.txt
+      work_id: WE3FFF1F3
+    de94bb03ad6c413693082fdf4d5cb573:
+      title: 13. Acintya
+      base_file: 13. Acintya.txt
+      work_id: W5694B62A
+    a24734c1e0084dfa835e73fc69dcf148:
+      title: 14. Aupamya
+      base_file: 14. Aupamya.txt
+      work_id: WAE5D5705
+    c57d875921a849d09a522731b979f9d5:
+      title: 15. Deva
+      base_file: 15. Deva.txt
+      work_id: W4BD68455
+    c3c2de279bd441819c370155b9076408:
+      title: 16. Tathatā
+      base_file: 16. Tathatā.txt
+      work_id: W49989767
+    e0c77fb534f34f9f95b5a17f037e8dba:
+      title: 17. Avinivartanīyaliṅgākāra
+      base_file: 17. Avinivartanīyaliṅgākāra.txt
+      work_id: WE669F0FB
+    9684fd2d399b4e0ea601e112c79b2dca:
+      title: 18. Śūnyatā
+      base_file: 18. Śūnyatā.txt
+      work_id: W462A96F4
+    0d716cd37e264fb485ea49ce678831fe:
+      title: 19. Gaṅgadevābhaginī
+      base_file: 19. Gaṅgadevābhaginī.txt
+      work_id: W78AF3C0F
+    17ba36a28a5446f3a309309849daae76:
+      title: 2. Śakra
+      base_file: 2. Śakra.txt
+      work_id: W18E81426
+    2a1c503bba0d4068b9c311f79132e831:
+      title: 20. Upāyakauśalyamīmāṃsā
+      base_file: 20. Upāyakauśalyamīmāṃsā.txt
+      work_id: W1B41F061
+    8114ca3bb5324c9fbf977bb10fbfb450:
+      title: 21. Mārakarma
+      base_file: 21. Mārakarma.txt
+      work_id: WA9F9E90C
+    457efeccbfa942cd98867c4f26ee965a:
+      title: 22. Kalyāṇamitra
+      base_file: 22. Kalyāṇamitra.txt
+      work_id: WA795DBDB
+    cb55a7752289440480300febb7503cf2:
+      title: 23. Śakra
+      base_file: 23. Śakra.txt
+      work_id: W21CC10DA
+    09f97f70d3b546d9a7bcf6a5ce702b71:
+      title: 24. Abhimāna
+      base_file: 24. Abhimāna.txt
+      work_id: WB24A2475
+    c661dbfbcc8046f4a6353a001e2725fe:
+      title: 25. Śikṣā
+      base_file: 25. Śikṣā.txt
+      work_id: W5E92828D
+    3b3e738f8b83407baef94e831600dda4:
+      title: 26. Māyopama
+      base_file: 26. Māyopama.txt
+      work_id: WE56D39BD
+    adb8db9955de4edaa0c3bc92eaa0912b:
+      title: 27. Sāra
+      base_file: 27. Sāra.txt
+      work_id: W0F4F44A8
+    126d61a552574afbb0dafae17526ed4a:
+      title: 28. Avakīrṇakusuma
+      base_file: 28. Avakīrṇakusuma.txt
+      work_id: W29DBD774
+    a985684ee4c14a9386861c992690c560:
+      title: 29. Anugama
+      base_file: 29. Anugama.txt
+      work_id: WA8537946
+    7d8020f309ea4192927e0f898be1d404:
+      title: 3. Aprameyaguṇadhāraṇapāramitāstūpasatkāra
+      base_file: 3. Aprameyaguṇadhāraṇapāramitāstūpasatkāra.txt
+      work_id: W1F8BAB66
+    1d30b1d711aa4f3eb854fc881ef129f2:
+      title: 30. Sadāprarudita
+      base_file: 30. Sadāprarudita.txt
+      work_id: W055512E1
+    d05b57c4aca7483eaddf5c9f0f3df7ba:
+      title: 31. Dharmodgata
+      base_file: 31. Dharmodgata.txt
+      work_id: W6136A46F
+    a40bc3a645624bb6bbed3a1d7a3fa022:
+      title: 32. Parīndanā
+      base_file: 32. Parīndanā.txt
+      work_id: W912DF479
+    27613b2407f24fd9bad031a3348e6cb5:
+      title: 4. Guṇaparikīrtana
+      base_file: 4. Guṇaparikīrtana.txt
+      work_id: W18DD8E6D
+    10f878c376a949cf96bc1bb1f034e6a3:
+      title: 5. Puṇyaparyāya
+      base_file: 5. Puṇyaparyāya.txt
+      work_id: WB2FB5044
+    c5e434bc5e7241a7a412decfdd12cfe8:
+      title: 6. Anumodanā
+      base_file: 6. Anumodanā.txt
+      work_id: W816CE01C
+    eee77909897b437d99b048b572f00c2e:
+      title: 7. Niraya
+      base_file: 7. Niraya.txt
+      work_id: W8F533798
+    fb1fa96e8fed41d89e4f3bb9e1c46879:
+      title: 8. Viśuddhi
+      base_file: 8. Viśuddhi.txt
+      work_id: W4744BAB1
+    b891fe96e4f24b1691d62167b46e0e31:
+      title: 9. Stuti
+      base_file: 9. Stuti.txt
+      work_id: W240A3704
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:47:24.122473'
+last_modified_at: '2022-03-01T21:47:24.122479'
